@@ -1,0 +1,17 @@
+D:\Practicas\Examen2-2\bin\Debug\net6.0-windows\Examen2-2.exe
+D:\Practicas\Examen2-2\bin\Debug\net6.0-windows\Examen2-2.deps.json
+D:\Practicas\Examen2-2\bin\Debug\net6.0-windows\Examen2-2.runtimeconfig.json
+D:\Practicas\Examen2-2\bin\Debug\net6.0-windows\Examen2-2.dll
+D:\Practicas\Examen2-2\bin\Debug\net6.0-windows\Examen2-2.pdb
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.vbproj.AssemblyReference.cache
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2_2.Form1.resources
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.vbproj.GenerateResource.cache
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.AssemblyInfoInputs.cache
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.AssemblyInfo.vb
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.vbproj.CoreCompileInputs.cache
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.dll
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\refint\Examen2-2.dll
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.pdb
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\Examen2-2.genruntimeconfig.cache
+D:\Practicas\Examen2-2\obj\Debug\net6.0-windows\ref\Examen2-2.dll
